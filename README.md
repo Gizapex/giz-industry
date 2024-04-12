@@ -1,2 +1,2 @@
-﻿# gizapex.github.io/giz-industry/
+﻿# https://gizapex.github.io/giz-industry/
  projet en cours...
