@@ -1,3 +1,3 @@
 ﻿# https://gizapex.github.io/giz-industry/ ⛏️
  
- Projet en cours...
+ Projet non terminé.
